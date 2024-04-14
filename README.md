@@ -1,5 +1,15 @@
 # QUIZJS
 
+#
+
+### <div align="center" target="_blank"> [Acesse aqui](https://galerry-dynamic.netlify.app/)
+
+<img src="./QUIZ.JPG" align="center" height="400em" width="100%"> 
+</div>
+
+#
+
+
 O que fazer?
 
 Conceitos Essenciais:
