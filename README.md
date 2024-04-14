@@ -2,7 +2,7 @@
 
 #
 
-### <div align="center" target="_blank"> [Acesse aqui](https://galerry-dynamic.netlify.app/)
+### <div align="center" target="_blank"> [Acesse aqui](https://quizjs-may.netlify.app/)
 
 <img src="./quiz.JPG" align="center" height="400em" width="100%"> 
 </div>
