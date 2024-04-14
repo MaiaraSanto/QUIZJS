@@ -4,7 +4,7 @@
 
 ### <div align="center" target="_blank"> [Acesse aqui](https://galerry-dynamic.netlify.app/)
 
-<img src="./QUIZ.JPG" align="center" height="400em" width="100%"> 
+<img src="./quiz.JPG" align="center" height="400em" width="100%"> 
 </div>
 
 #
